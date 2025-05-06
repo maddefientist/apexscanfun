@@ -1,0 +1,9 @@
+python-telegram-bot==20.7
+matplotlib
+mplfinance
+pandas
+ta
+requests
+python-dotenv
+scipy
+nest_asyncio
